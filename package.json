@@ -2,5 +2,9 @@
   "name": "com.zunzun.zunbase",
   "version": "0.0.1",
   "displayName": "Zun Base",
-  "unity": "2021.4"
+  "unity": "2021.4",
+  "dependencies": {
+    "com.cysharp.unitask": "2.3.3",
+    "com.neuecc.unirx": "7.1.0"
+  }
 }
