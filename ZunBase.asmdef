@@ -1,0 +1,17 @@
+{
+    "name": "ZunBase",
+    "rootNamespace": "",
+    "references": [
+        "Editor",
+        "Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
